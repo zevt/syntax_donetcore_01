@@ -1,0 +1,11 @@
+C:\Development\C#Expriments\syntax-donetcore-01\syntax-donetcore-01\bin\Debug\netcoreapp2.0\syntax-donetcore-01.deps.json
+C:\Development\C#Expriments\syntax-donetcore-01\syntax-donetcore-01\bin\Debug\netcoreapp2.0\syntax-donetcore-01.runtimeconfig.json
+C:\Development\C#Expriments\syntax-donetcore-01\syntax-donetcore-01\bin\Debug\netcoreapp2.0\syntax-donetcore-01.runtimeconfig.dev.json
+C:\Development\C#Expriments\syntax-donetcore-01\syntax-donetcore-01\bin\Debug\netcoreapp2.0\syntax-donetcore-01.dll
+C:\Development\C#Expriments\syntax-donetcore-01\syntax-donetcore-01\bin\Debug\netcoreapp2.0\syntax-donetcore-01.pdb
+C:\Development\C#Expriments\syntax-donetcore-01\syntax-donetcore-01\obj\Debug\netcoreapp2.0\syntax-donetcore-01.csprojResolveAssemblyReference.cache
+C:\Development\C#Expriments\syntax-donetcore-01\syntax-donetcore-01\obj\Debug\netcoreapp2.0\syntax-donetcore-01.csproj.CoreCompileInputs.cache
+C:\Development\C#Expriments\syntax-donetcore-01\syntax-donetcore-01\obj\Debug\netcoreapp2.0\syntax-donetcore-01.AssemblyInfoInputs.cache
+C:\Development\C#Expriments\syntax-donetcore-01\syntax-donetcore-01\obj\Debug\netcoreapp2.0\syntax-donetcore-01.AssemblyInfo.cs
+C:\Development\C#Expriments\syntax-donetcore-01\syntax-donetcore-01\obj\Debug\netcoreapp2.0\syntax-donetcore-01.dll
+C:\Development\C#Expriments\syntax-donetcore-01\syntax-donetcore-01\obj\Debug\netcoreapp2.0\syntax-donetcore-01.pdb
